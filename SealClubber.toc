@@ -1,0 +1,21 @@
+## Interface: 30000
+
+## Title: SealClubber
+## Notes: Fast pally seal swapping
+## Author: Tekkub Stoutwrithe
+## Version: Alpha
+## X-Website: http://www.tekkub.net/
+## X-Email: tekkub-wow@googlegroups.com
+## X-Category: Paladin
+
+## SavedVariables: SealClubberDB
+
+## OptionalDeps: tekDebug, tekErr
+
+## LoadManagers: AddonLoader
+## X-LoadOn-Class: Paladin
+
+LibStub.lua
+tekKonfigAboutPanel.lua
+
+SealClubber.lua

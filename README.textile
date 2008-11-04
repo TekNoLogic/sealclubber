@@ -1,0 +1,9 @@
+SealClubber allows for fast on-the-fly switching of a pally's seal.  Simply hover over the button and use your mousewheel.
+
+SealClubber is intended to be used in a macro, instead of rewriting the macro every time you need to change seals.  Just add @/click SealClubber@ to your macro.
+
+h2. Links
+
+<b>Visit "my site":http://www.tekkub.net/addons/SealClubber for more info.<br>
+Please report all bugs and feature requests to my "Google Code":http://code.google.com/p/tekkub-wow/issues/list?can=1&q=addon:SealClubber&sort=status+milestone&colspec=ID%20Type%20Status%20Addon%20Milestone%20Summary tracker<br>
+Please direct all feedback and questions to my "Google Groups":http://groups-beta.google.com/group/tekkub-wow mailinglist.</b>
